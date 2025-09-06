@@ -1,0 +1,17 @@
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\EjecucionDll.exe.config
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\EjecucionDll.exe
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\EjecucionDll.pdb
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\CapaV.dll
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\Capacontrolador.dll
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\CapaModelo.dll
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\CapaV.pdb
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\Capacontrolador.pdb
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\bin\x64\Debug\CapaModelo.pdb
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.Form1.resources
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.Properties.Resources.resources
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.csproj.GenerateResource.cache
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.csproj.CopyComplete
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.exe
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.pdb
+C:\Users\Carlo Barquero\source\repos\EjecucionDll\EjecucionDll\obj\x64\Debug\EjecucionDll.csproj.AssemblyReference.cache
